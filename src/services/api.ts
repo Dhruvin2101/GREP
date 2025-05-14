@@ -1,6 +1,6 @@
 // API keys should typically be stored in environment variables
 // For demo purposes only, we're using a constant here
-const GEMINI_API_KEY = "AIzaSyDOyyagCnL4MMPGOjuExb9ZEbObNRCqdPc";
+const GEMINI_API_KEY = "AIzaSyCzu2yZMdPpQu-qq762BeO1KjB9N9SZa9g";
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
 interface ApiResponse {
